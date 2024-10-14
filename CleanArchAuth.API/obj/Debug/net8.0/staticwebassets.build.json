@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iafOtfSEAxCciRR7p0usKGXcpKmF2m6bcfXFyG4RjB4=",
+  "Source": "CleanArchAuth.API",
+  "BasePath": "_content/CleanArchAuth.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

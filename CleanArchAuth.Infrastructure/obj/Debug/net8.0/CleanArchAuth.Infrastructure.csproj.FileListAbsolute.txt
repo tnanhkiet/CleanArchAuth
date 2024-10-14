@@ -1,0 +1,17 @@
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\bin\Debug\net8.0\CleanArchAuth.Infrastructure.deps.json
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\bin\Debug\net8.0\CleanArchAuth.Infrastructure.runtimeconfig.json
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\bin\Debug\net8.0\CleanArchAuth.Infrastructure.dll
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\bin\Debug\net8.0\CleanArchAuth.Infrastructure.pdb
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\bin\Debug\net8.0\CleanArchAuth.Domain.dll
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\bin\Debug\net8.0\CleanArchAuth.Domain.pdb
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\CleanArchAuth.Infrastructure.csproj.AssemblyReference.cache
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\CleanArchAuth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\CleanArchAuth.Infrastructure.AssemblyInfoInputs.cache
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\CleanArchAuth.Infrastructure.AssemblyInfo.cs
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\CleanArchAuth.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\CleanArc.EBFD28EF.Up2Date
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\CleanArchAuth.Infrastructure.dll
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\refint\CleanArchAuth.Infrastructure.dll
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\CleanArchAuth.Infrastructure.pdb
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\CleanArchAuth.Infrastructure.genruntimeconfig.cache
+C:\Work\Dev\CleanArchAuth\CleanArchAuth.Infrastructure\obj\Debug\net8.0\ref\CleanArchAuth.Infrastructure.dll
